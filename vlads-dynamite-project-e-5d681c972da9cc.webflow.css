@@ -1,0 +1,286 @@
+.heading {
+  margin-top: 60px;
+  margin-right: 75px;
+  margin-left: 75px;
+  padding-top: 0px;
+  font-family: Montserrat, sans-serif;
+  font-size: 28px;
+  line-height: 28px;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.body {
+  background-color: #f3f3f3;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 44px;
+  margin-bottom: 44px;
+  background-color: #4a5fb3;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-weight: 500;
+}
+
+.text-block {
+  padding-top: 0px;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  line-height: 15px;
+  font-weight: 700;
+}
+
+.image {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.image-2 {
+  display: inline-block;
+  margin-top: 38px;
+  box-shadow: 0 0 6px 0 #030303;
+  color: #a54b4b;
+}
+
+.image-3 {
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.image-4 {
+  display: block;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+.div-block {
+  margin-right: 180px;
+  margin-left: 180px;
+  background-color: #fff;
+}
+
+.text-block-2 {
+  margin-top: 34px;
+  margin-right: 75px;
+  margin-left: 75px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.image-5 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.text-block-3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 61px;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.image-6 {
+  margin-top: 46px;
+  padding-top: 0px;
+}
+
+.image-7 {
+  margin-top: 70px;
+}
+
+.image-8 {
+  margin-top: 70px;
+}
+
+.image-9 {
+  margin-top: 80px;
+}
+
+.link-block {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.link-block-2 {
+  margin-top: 20px;
+}
+
+.image-10 {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.image-11 {
+  margin-left: 15px;
+}
+
+.image-12 {
+  margin-left: 15px;
+}
+
+.image-13 {
+  margin-left: 15px;
+}
+
+.image-14 {
+  margin-left: 15px;
+}
+
+.image-15 {
+  margin-left: 15px;
+}
+
+.text-block-4 {
+  margin-top: 19px;
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.text-block-5 {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.link {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 44px;
+}
+
+.bold-text {
+  font-size: 20px;
+}
+
+.button-2 {
+  display: inline-block;
+  padding: 15px 0px;
+  opacity: 1;
+}
+
+.button-2:hover {
+  padding-left: 0px;
+}
+
+.image-16 {
+  display: inline-block;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.link-block-3 {
+  margin-right: 15px;
+}
+
+.link-block-4 {
+  margin-right: 15px;
+}
+
+.link-block-5 {
+  margin-right: 15px;
+}
+
+.link-block-6 {
+  margin-right: 15px;
+}
+
+.link-block-7 {
+  margin-right: 15px;
+}
+
+.link-block-8 {
+  margin-right: 0px;
+}
+
+@media (max-width: 991px) {
+  .div-block {
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .div-block {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 479px) {
+  .heading {
+    margin-top: 36px;
+    margin-right: -100px;
+    margin-left: -135px;
+    font-size: 14px;
+  }
+  .image-4 {
+    display: none;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .div-block {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .text-block-2 {
+    margin-top: 0px;
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+  .image-5 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+  .text-block-3 {
+    padding-top: 0px;
+    padding-bottom: 33px;
+  }
+  .text-block-5 {
+    margin-top: 15px;
+    font-size: 8px;
+  }
+  .link-block-3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+  }
+  .link-block-4 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+  }
+  .link-block-5 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+  }
+  .link-block-6 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+  }
+  .link-block-7 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+  }
+  .link-block-8 {
+    margin: 15px;
+  }
+}
